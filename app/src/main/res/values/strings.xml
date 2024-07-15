@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="tournament_label">Select a tournament:</string>
+    <string name="winner_button">Winner</string>
+    <string name="default_text">TextView</string>
+</resources>
+
